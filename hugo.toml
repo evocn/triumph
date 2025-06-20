@@ -1,0 +1,5 @@
+baseURL = 'http://alexhartford.org/triumph'
+languageCode = 'en-us'
+title = "Triumph"
+disableKinds = ['taxonomy', 'term', 'section']
+publishDir = 'docs'
