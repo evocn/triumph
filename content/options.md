@@ -99,6 +99,7 @@ Just make sure you run it by Alex first before we run the thing.
 - ***Speech*** | Once per session, during a rest, you can temporarily nullify the effects of an ally's wound by giving them a pep talk.
 - ***Tempo*** | You can switch any characters in the initiative order on your side of the field.
 - ***Mule*** | You can carry a pack without any penalty.
+
 ## Dervish
 Your Faith sustains you on your journey.
 You do not seek power from God, only that He watch over you, and guide your path toward your ultimate destination.
@@ -107,6 +108,7 @@ But if your faith falters, then you will have nothing to guide you but your self
 - Committed | Wounds do not result in any penalties. Fear, Intimidation, and Persuasion have no effect on you.
 - Purge | +5 Damage to undead, corrupted, evil, or otherworldly enemies.
 - Pacifist | Gain +2 to checks to parley or negotiate.
+
 ## Druid
 You live in the wilderness. Any time you enter a civilized location, you lose the potency of your abilities here.
 The only way to ensure you can use your powers is by retaining some piece of a familiar natural home, like a leaf from your favorite tree, or a baby bunny.
@@ -115,7 +117,6 @@ The only way to ensure you can use your powers is by retaining some piece of a f
 - Sending | Communicate with other people perfectly non-verbally with hand-signals, clicks, and facial gestures.
 - Morph | Once per session, take the form of a little critter.
 
----
 ## Paladin
 Every sunrise, you make a solemn vow.
 If it is worthy, you may use your powers.
@@ -125,6 +126,7 @@ If you falter in your vow, you lose these abilities.
 - Smite | Take a Minor Wound to deal +6 damage on an attack. This attack cannot be Sundered and ignores Armor.
 - Discernment | Detect lies without fail.
 
+## Wizard
 You have studied magic, learning a way to interpret old tricks written down in Hermetic circles.
 You have no power on your own, but given the right scroll, materials, and an arcane focus, you can perform incredible feats!
 Spell Book | You start with three Scrolls in your book. When you use a Scroll, it disintegrates. Many Scrolls exist in the world, in dusty old tomes, but in your initial collection, choose three from the list below:

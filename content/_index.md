@@ -2,9 +2,9 @@
 title: "Index"
 ---
 
-# *Bones*
-***Alex Hartford*** | ***Winter 2025***
+# *Triumph*
+***Alex Hartford*** | ***Summer 2025***
 
-[Core Rules](/bones/rules/) | [Character Options](/bones/options/)
+[Core Rules](/triumph/rules/) | [Character Options](/triumph/options/)
 
-![bones](/bones/images/dungeon.jpg)
+![triumph](/triumph/images/sea-hawk.jpg)
