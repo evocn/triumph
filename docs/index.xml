@@ -7,26 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://alexhartford.org/triumph/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Options for your character</title>
+      <title></title>
       <link>http://alexhartford.org/triumph/options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/triumph/options/</guid>
-      <description>This document provides some fun inspiration for options for your character.
-You can pick something here or make up your own thing to fit your character. Just make sure you run it by Alex first before we run the thing.
-Weapons Weapons Hands Damage Special Knife 1 D4 Stow for 1/2. Sword 1 D6 Longsword 2 2D4 Stow for 1. Greatsword 2 2D6 Battle Axe 2 D10 Polearm 2 ^D6s Spear 2 D6 1 Armor.</description>
+      <description>Abilities Here&amp;rsquo;s some examples of Abilities. You can choose something here, or you can invent your own!
+Myrmidon | You may use Clarity instead of Strength to wield swords when using Quarrel. Your sword attacks ignore Armor. Precision | You gain +2 to your Volley rolls. Eagle Eye | You cannot be surprised. You can ask &amp;ldquo;How many hit points do they have&amp;rdquo; as a part of Discern Realities. Protector | You get +2 Armor when you use the Defend Move.</description>
     </item>
     
     <item>
-      <title>Rules</title>
+      <title></title>
       <link>http://alexhartford.org/triumph/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/triumph/rules/</guid>
-      <description>The Core Mechanic - This is a 2D6-based game.
-DCs: Easy: 7 | Moderate: 9 | Hard: 11
-I tend to resolve most things without dice when characters are proficient at something, have a significant advantage or good plan, or when they are not under any particular pressure. Sometimes rolls can have partial success or consequences. I&amp;rsquo;ll always tell you in advance what a roll entails.
-Attributes - There are 5 attributes which govern characters, which typically range from -3 to +3.</description>
+      <description>The Basics The Core Mechanic This game features a core mechanic from the game Apocalypse World.
+The game revolves around Moves. All moves involve rolling 2D6, and adding relevant modifiers.
+If the total is 10+, they succeed at the task completely! If the total is 7-9, they succeed at the task, but with some complication. If the total is 6 or lower, they fail at the task. The DM determines any additional effects.</description>
     </item>
     
   </channel>
