@@ -2,39 +2,43 @@
 # Abilities
 Here's some examples of Abilities. You can choose something here, or you can invent your own!
 
-- ***Myrmidon*** | You may use Clarity instead of Strength to wield swords when using **Quarrel**. Your sword attacks ignore Armor.
-- ***Precision*** | You gain +2 to your **Volley** rolls.
-- ***Eagle Eye*** | You cannot be surprised. You can ask "How many hit points do they have" as a part of **Discern Realities**.
-- ***Protector*** | You get +2 Armor when you use the **Defend** Move.
-- ***Talented*** | You choose two extra talents, and you get +1 to all checks using one chosen talent, which we deem your "super duper talent".
-- ***Martial Arts*** | Your unarmed strikes deal 1d4 damage. You gain a talent in grappling. Any character who attempts to get past you is stopped in their tracks.
+- **Myrmidon** | You may use Clarity instead of Strength to wield swords when using **Quarrel**. Your sword attacks ignore Armor.
+- **Precision** | You gain +2 to your **Volley** rolls.
+- **Eagle Eye** | You cannot be surprised. You can ask "How many hit points do they have" as a part of **Discern Realities**.
+- **Protector** | You get +2 Armor when you use the **Defend** Move.
+- **Talented** | You choose two extra talents, and you get +1 to all checks using one chosen talent, which we deem your "super duper talent".
+- **Martial Arts** | Your unarmed strikes deal 1d4 damage. You gain a talent in grappling. Any character who attempts to get past you is stopped in their tracks.
 
 ---
 And here's some examples of custom Moves.
 
 ---
-Bend Bars, Lift Gates
-> When you use pure strength to destroy an inanimate obstacle, roll +STR. 
-> - On a 10+, choose 3. 
-> - On a 7-9 choose 2.
-> - It doesn’t take a very long time
-> - Nothing of value is damaged
-> - It doesn’t make an inordinate amount of noise
-> - You can fix the thing again without a lot of effort
+**Bend Bars, Lift Gates**
+
+When you use pure strength to destroy an inanimate obstacle, roll +STR. 
+- On a 10+, choose 3. 
+- On a 7-9 choose 2.
+- It doesn’t take a very long time
+- Nothing of value is damaged
+- It doesn’t make an inordinate amount of noise
+- You can fix the thing again without a lot of effort
 
 ---
-Called Shot
-> When you attack a defenseless or surprised enemy at range, you
-can choose to deal your damage or name your target and roll+DEX.
-> Head
-> - 10+: As 7–9, plus your damage 
-> - 7-9: They do nothing but stand and drool for a few moments
-> Arms
-> - 10+: As 7-9, plus your damage 
-> - 7-9: They drop anything they’re holding
-> Legs
-> - 10+: As 7-9, plus your damage
-> - 7-9: They’re hobbled and slow moving
+**Called Shot**
+
+When you attack a defenseless or surprised enemy at range, you can choose to deal your damage or name your target and roll+DEX.
+
+*Head*
+- 10+: As 7–9, plus your damage 
+- 7-9: They do nothing but stand and drool for a few moments
+
+*Arms*
+- 10+: As 7-9, plus your damage 
+- 7-9: They drop anything they’re holding
+
+*Legs*
+- 10+: As 7-9, plus your damage
+- 7-9: They’re hobbled and slow moving
 
 ---
 # Weapons
