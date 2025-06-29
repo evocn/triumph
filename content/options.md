@@ -1,6 +1,40 @@
 
+[Home](/triumph/)
+
+---
+
+# Weapons
+| Weapons        | Hands | Damage | Special                                |
+| -------------- | ----- | ------ | -------------------------------------- |
+| Bare-Knuckle   | 1     | D2     |                                        |
+| Knife          | 1     | D4     | Can be thrown also.                    |
+| Cloak + Dagger | 1     | D4     | +1 Armor                               |
+| Shield         | 1     | D2     | +1 Armor                               |
+|                |       |        |                                        |
+| Sword          | 1     | D6     |                                        |
+| Longsword      | 2     | 2D4    |                                        |
+| Greatsword     | 2     | 2D6    | Long                                   |
+|                |       |        |                                        |
+| Spear          | 1     | D6     | Long                                   |
+| Battle Axe     | 2     | D10    | Long                                   |
+| Mace           | 1     | D8     | -1 Dexterity                           |
+|                |       |        |                                        |
+| Bow            | 2     | D8     | Ranged.                                |
+| Carbine        | 2     | 2D10   | Ranged. Rather slow to reload.         |
+| Pistol         | 1     | D10    | Short Ranged. Rather slow to reload.   |
+
+*Long* implies that a weapon can strike at a distance, but makes it unwieldy if someone's closed the gap.
+
+---
+# Armor
+| Gear        | Armor | Consequences                        |
+| ----------- | ----- | ----------------------------------- |
+| Light Armor | 1     | -2 Dexterity.                       |
+| Heavy Armor | 2     | -3 Dexterity. Stealth impossible.   |
+
+---
 # Abilities
-Here's some examples of Abilities. You can choose something here, or you can invent your own!
+Here's some examples of Abilities for when you level up. You can choose something here, or you can invent your own!
 
 - **Myrmidon** | You may use Clarity instead of Strength to wield swords when using **Quarrel**. Your sword attacks ignore Armor.
 - **Precision** | You gain +2 to your **Volley** rolls.
@@ -10,12 +44,10 @@ Here's some examples of Abilities. You can choose something here, or you can inv
 - **Martial Arts** | Your unarmed strikes deal 1d4 damage. You gain a talent in grappling. Any character who attempts to get past you is stopped in their tracks.
 
 ---
-And here's some examples of custom Moves.
+And here's some examples of custom Moves:
 
----
-**Bend Bars, Lift Gates**
-
-When you use pure strength to destroy an inanimate obstacle, roll +STR. 
+### Bend Bars, Lift Gates
+When you use pure strength to destroy an inanimate obstacle, roll + Strength. 
 - On a 10+, choose 3. 
 - On a 7-9 choose 2.
 - It doesn’t take a very long time
@@ -23,10 +55,8 @@ When you use pure strength to destroy an inanimate obstacle, roll +STR.
 - It doesn’t make an inordinate amount of noise
 - You can fix the thing again without a lot of effort
 
----
-**Called Shot**
-
-When you attack a defenseless or surprised enemy at range, you can choose to deal your damage or name your target and roll+DEX.
+### Called Shot
+When you attack a defenseless or surprised enemy at range, you can choose to deal your damage or name your target and roll + Agility.
 
 *Head*
 - 10+: As 7–9, plus your damage 
@@ -41,47 +71,3 @@ When you attack a defenseless or surprised enemy at range, you can choose to dea
 - 7-9: They’re hobbled and slow moving
 
 ---
-# Weapons
-| Weapons        | Hands | Damage | Special                                |
-| -------------- | ----- | ------ | -------------------------------------- |
-| Knife          | 1     | D4     | Can be thrown.                         |
-| Cloak + Dagger | 1     | D4     | +1 Armor                               |
-|                |       |        |                                        |
-| Sword          | 1     | D6     |                                        |
-| Longsword      | 2     | 2D4    |                                        |
-| Greatsword     | 2     | 2D6    | Long                                   |
-|                |       |        |                                        |
-| Battle Axe     | 2     | D10    | Long                                   |
-| Polearm        | 2     | ^D6s   | Long                                   |
-| Spear          | 2     | D6     | Long                                   |
-| Mace           | 1     | D8     | -1 Dexterity                           |
-|                |       |        |                                        |
-| Bow            | 2     | D10    | Ranged.                                |
-| Musket         | 2     | 2D10   | Ranged.                                |
-| Pistol         | 1     | D10    | Ranged.                                |
-| Carbine        | 2     | 2D8    | Ranged.                                |
-|                |       |        |                                        |
-| Bare-Knuckle   | 1     | D2     |                                        |
-| Improv. Weapon | 1     | D4     | Various.                               |
-
----
-# Armor
-| Gear        | Armor | Consequences                        |
-| ----------- | ----- | ----------------------------------- |
-| Light Armor | 1     | -2 Dexterity.                       |
-| Heavy Armor | 2     | -3 Dexterity. Stealth impossible.   |
-| Shield      | 1     | Requires one free hand.             |
-
----
-# Trinkets
-- Whetstone
-- Tinderbox
-- Whistle
-- Pouch of coins
-- Potion
-- Lockpick
-- Harmonica
-- Holy Cross
-- Gemstone
-- Necklace
-- Box of Dice
