@@ -121,6 +121,7 @@ When you’re dying, roll.
 - On a 7–9, you survive the fate, but there is some permanent effect on you.
 - On 6-, your fate is sealed. You will die soon.
 
+---
 # Character Generation
 Distribute **[+2, +1, 0, -0, -1, -2]** in the Attributes.
 
